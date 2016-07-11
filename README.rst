@@ -9,9 +9,6 @@ thrift_json
 .. image:: https://img.shields.io/travis/youngking/thrift_json.svg
         :target: https://travis-ci.org/youngking/thrift_json
 
-.. image:: https://readthedocs.org/projects/thrift-json/badge/?version=latest
-        :target: https://thrift-json.readthedocs.io/en/latest/?badge=latest
-        :alt: Documentation Status
 
 .. image:: https://pyup.io/repos/github/youngking/thrift_json/shield.svg
      :target: https://pyup.io/repos/github/youngking/thrift_json/
@@ -22,7 +19,6 @@ converter between thrift and json
 
 
 * Free software: MIT license
-* Documentation: https://thrift-json.readthedocs.io.
 
 
 Usage
