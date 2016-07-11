@@ -8,7 +8,7 @@ python:
 # command to install dependencies, e.g. pip install -r requirements.txt --use-mirrors
 install: 
   - wget http://people.apache.org/~jfarrell/thrift/0.9.3/repo/ubuntu/pool/main/t/thrift/thrift-compiler_0.9.3_amd64.deb
-  - dpkg -i thrift-compiler_0.9.3_amd64.deb && apt-get install -yf
+  - sudo dpkg -i thrift-compiler_0.9.3_amd64.deb && apt-get install -yf
   - pip install -U tox
 
 # command to run tests, e.g. python setup.py test
