@@ -10,7 +10,7 @@ Tests for `thrift_json` module.
 import json
 import unittest
 
-from thrift_json import json2thrift, dict2thrift, thrift2json, thrift2dict
+from thrift_json import json2thrift, dict2thrift, thrift2dict
 
 from .features import ttypes
 
